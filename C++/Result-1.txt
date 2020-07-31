@@ -1,0 +1,79 @@
+ clang++-7 -pthread -std=c++17 -o main main.
+cpp
+ ./main
+24
+Time taken by function: 61 microseconds
+2
+2
+2
+Time taken by function: 1499 microseconds
+18
+18
+18
+18
+18
+18
+18
+Time taken by function: 109 microseconds
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+Time taken by function: 367 microseconds
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+Time taken by function: 367 microseconds
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+40
+exited, segmentation fault
+
