@@ -1,0 +1,29 @@
+ clang-7 -pthread -lm -o main main.c
+ ./main
+sh: 1: cls: not found
+enter the number of row=3
+enter the number of column=3
+enter the first matrix element=
+1
+1
+1
+1
+1
+1
+1
+1
+1
+enter the second matrix element=
+1
+1
+1
+1
+1
+1
+1
+1
+1
+multiply of the matrix=
+3   3   3
+3   3   3
+3   3   3
